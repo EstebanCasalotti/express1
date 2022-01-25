@@ -1,0 +1,17 @@
+[
+ {
+   title: "Escuadra",
+   price: 12,
+   id": 1
+ },
+ {
+   title: "Calculadora",
+   price: 23,
+   id: 2
+ },
+ {
+   title: "Globo Terráqueo",
+   price: 34,
+   id: 3
+ }
+]
